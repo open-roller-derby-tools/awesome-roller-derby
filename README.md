@@ -23,7 +23,7 @@ True. It can also be awesome, but less awesome. :)
 - [Streaming](#streaming)
 - [Officials](#officials)
 - [Stats](#stats)
-- [Less awesome](#less-awesome)
+- [Less awesome Roller Derby](#less-awesome-roller-derby)
 
 ## Simulators
 - [NURDS](https://github.com/fa-bien/nurds) - New Ultimate Roller Derby Simulator - [Try](New Ultimate Roller Derby Simulator)
@@ -64,4 +64,4 @@ True. It can also be awesome, but less awesome. :)
 - [derby](https://github.com/biplabendu/derby) - Statistics for roller derby obtained from the WFTDA Statsbook.
 
 ## Less Awesome
-- [Less Awesome](/less-awesome.md) - A curated list of a bit less awesome things (not open licence) related to roller derby.
+- [Less Awesome Roller Derby](/less-awesome.md) - A curated list of a bit less awesome things (not open licence) related to roller derby.
