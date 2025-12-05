@@ -21,15 +21,15 @@ To be part of this list, projects and software must have an open license.
 ## Scoreboards
 - [CRG Derby Scoreboard](https://github.com/rollerderby/scoreboard) - The CRG ScoreBoard is a browser-based scoreboard solution that also provides overlays for video production and the ability to track full game data and export it to a WFTDA statsbook.
 - [NSOBridge](https://github.com/someweisguy/NSOBridge) - [WIP] This project is in its very early infancy and still has quite a ways to go before it will be ready for scrimmages or sanctioned bouts.
-- [ARD Scoreboard](https://github.com/BrewSleeDerby/scoreboard) - [WIP] WFTDA Roller Derby scoreboard app made with Vue 3 in early stage of developement
-- [Jamster](https://github.com/awsxdr/jamster) - [WIP] Jamster is a scoreboard and live stats system for running roller derby games
+- [ARD Scoreboard](https://github.com/BrewSleeDerby/scoreboard) - [WIP] WFTDA Roller Derby scoreboard app made with Vue 3 in early stage of developement.
+- [Jamster](https://github.com/awsxdr/jamster) - [WIP] Jamster is a scoreboard and live stats system for running roller derby games.
 
 ## CRG Tools
 - [CRG Overlays](https://github.com/rcrderby/crg-overlays/tree/main) - Custom overlays for the CRG Scoreboard
 - [Stream Deck Control for CRG](https://github.com/rcrderby/crg-streamdeck) - Control the CRG ScoreBoard application for roller derby with an Elgato Stream Deck.
 - [CRG Auto Backup](https://github.com/rcrderby/crg-auto-backup) - Automated Backup for CRG Scoreboard Application
-- [Jam Stats](https://github.com/dhmay/jamstats) - Tools for making plots on roller derby scoreboard data and following live game data - [Try it](https://jamstats.net/)
-- [Wsproxy](https://github.com/DerbyStats/wsproxy) - Live broadcast a CRG Roller Derby Scoreboard to the internet
+- [Jam Stats](https://github.com/dhmay/jamstats) - Tools for making plots on roller derby scoreboard data and following live game data - [Try](https://jamstats.net/)
+- [Wsproxy](https://github.com/DerbyStats/wsproxy) - Live broadcast a CRG Roller Derby Scoreboard to the internet.
 - [Roller Derby Scoreboard Containerized](https://github.com/nashvillerollerderby/roller-derby-scoreboard-containerized) - Tools to build and run CRG.
 
 ## Android apps
@@ -38,7 +38,7 @@ To be part of this list, projects and software must have an open license.
 ## iOS apps
 
 ## Rules
-- [Calls](https://github.com/fa-bien/calls) - Random call generator for roller derby - [Demo](http://www.viennarollerderby.org/calls/calls.html)
+- [Calls](https://github.com/fa-bien/calls) - Random call generator for roller derby - [Try](http://www.viennarollerderby.org/calls/calls.html)
 - [Penalty Party](https://github.com/mxsasha/penaltyparty) - Penalty Party helps roller derby leagues to run testing for the WFTDA rules. - [Try](https://penaltyparty.eu/)
 
 ## Streaming
