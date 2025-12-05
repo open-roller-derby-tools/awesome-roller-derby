@@ -2,6 +2,17 @@
 A curated list of open source awesome things related to roller derby.
 To be part of this list, projects and software must have an open license.
 
+### What is an open licence?
+An open license allows anyone ot reuse the content, if it's a software it could be open source licence (GPL, MIT, etc.) and if it's some other content, then using a free redistribution license (CC-BY-SA, used by Wikipedia, etc.).
+
+### Why is an open license important?
+Open license allows redistribution of content, and ultimately, this will help roller derby grow!
+Another consequence is that when the creator of the content disappear or stops distributing it, other people can still do it!
+It also allows other people to build on the work, in the same way we're all standing on the shoulders of our ancestors.
+
+### There is some other content which is not open out there.
+True. It can also be awesome, but less awesome. :)
+
 # Contents
 - [Simulators](simulators)
 - [Scoreboards](#scoreboards)
@@ -12,6 +23,7 @@ To be part of this list, projects and software must have an open license.
 - [Streaming](#streaming)
 - [Officials](#officials)
 - [Stats](#stats)
+- [Less awesome](#less-awesome)
 
 ## Simulators
 - [NURDS](https://github.com/fa-bien/nurds) - New Ultimate Roller Derby Simulator - [Try](New Ultimate Roller Derby Simulator)
@@ -50,3 +62,6 @@ To be part of this list, projects and software must have an open license.
 
 ## Stats
 - [derby](https://github.com/biplabendu/derby) - Statistics for roller derby obtained from the WFTDA Statsbook.
+
+## Less Awesome
+- [Less Awesome](/less-awesome.md) - A curated list of a bit less awesome things (not open licence) related to roller derby.
