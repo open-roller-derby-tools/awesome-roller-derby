@@ -1,4 +1,4 @@
-# awesome-roller-derby
+# Awesome Roller Derby
 A curated list of open source awesome things related to roller derby.
 To be part of this list, projects and software must have an open license.
 
