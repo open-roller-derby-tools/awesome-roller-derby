@@ -3,8 +3,9 @@ A curated list of a bit less awesome things (not open licence) related to roller
 
 # Contents
 - [League management](#league-management)
-- [Streaming](#scoreboards)
+- [Streaming](#streaming)
 - [Training](#training)
+- [Awesome Roller Derby](/)
 
 ## League management
 - [Trackkarma](https://www.trackkarma.com/) - Comprehensive management application designed specifically for roller derby leagues - Free (10€/month per league to get access to iOS/Android app)
