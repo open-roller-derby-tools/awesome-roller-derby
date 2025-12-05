@@ -63,5 +63,5 @@ True. It can also be awesome, but less awesome. :)
 ## Stats
 - [derby](https://github.com/biplabendu/derby) - Statistics for roller derby obtained from the WFTDA Statsbook.
 
-## Less Awesome
+## Less Awesome Roller Derby
 - [Less Awesome Roller Derby](/less-awesome.md) - A curated list of a bit less awesome things (not open licence) related to roller derby.
