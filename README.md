@@ -21,7 +21,7 @@ To be part of this list, projects and software must have an open license.
 ## Scoreboards
 - [CRG Derby Scoreboard](https://github.com/rollerderby/scoreboard) - The CRG ScoreBoard is a browser-based scoreboard solution that also provides overlays for video production and the ability to track full game data and export it to a WFTDA statsbook.
 - [NSOBridge](https://github.com/someweisguy/NSOBridge) - [WIP] This project is in its very early infancy and still has quite a ways to go before it will be ready for scrimmages or sanctioned bouts.
-- [ARD Scoreboard](https://github.com/BrewSleeDerby/scoreboard) - WFTDA Roller Derby scoreboard app made with Vue 3
+- [ARD Scoreboard](https://github.com/BrewSleeDerby/scoreboard) - [WIP] WFTDA Roller Derby scoreboard app made with Vue 3 in early stage of developement
 - [Jamster](https://github.com/awsxdr/jamster) - [WIP] Jamster is a scoreboard and live stats system for running roller derby games
 
 ## CRG Tools
