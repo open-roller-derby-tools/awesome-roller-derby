@@ -1,5 +1,5 @@
 # Less Awesome Roller Derby
-A curated list of a bit less awesome things (not open source) related to roller derby.
+A curated list of a bit less awesome things (not open licence) related to roller derby.
 
 # Contents
 - [League management](#league-management)
