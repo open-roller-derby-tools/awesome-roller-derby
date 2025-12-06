@@ -13,7 +13,7 @@ A curated list of a bit less awesome things (not open licence) related to roller
 
 ## Streaming
 - [RollerDerby TV](rollerderbytv.net) - Provides high-quality filming and live streaming services for Roller Derby events.
-- [Warch Derby]([https://www.watchderby.com/](https://www.watchderby.com/playoffs-championships)) - Archive of links for MRDA/WFTDA Champs games, also possibly listing some upcoming games.
+- [Watch Derby](https://www.watchderby.com/playoffs-championships) - Archive of links for MRDA/WFTDA Champs games, also possibly listing some upcoming games.
 
 ## Training
 - [Roller Derby Drills Collection](https://docs.google.com/spreadsheets/d/183eo0M2mM5a3pNqF8fNi-zEd9iMWO8bKCpI3mUQjzX4/edit?gid=0#gid=0) - A collection of roller derby drills in a spreadsheet
