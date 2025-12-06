@@ -62,6 +62,7 @@ True. It can also be awesome, but less awesome. :)
 
 ## Stats
 - [derby](https://github.com/biplabendu/derby) - Statistics for roller derby obtained from the WFTDA Statsbook.
+- [MRDA Games API](https://api.mrda.org/v1-public/sanctioning/scores?limit=1000) - API with list of MRDA sanctioned games from 2024 -> now.
 
 ## Less Awesome Roller Derby
 - [Less Awesome Roller Derby](/less-awesome.md) - A curated list of a bit less awesome things (not open licence) related to roller derby.
