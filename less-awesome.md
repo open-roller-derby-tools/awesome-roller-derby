@@ -11,10 +11,10 @@ A curated list of a bit less awesome things (not open licence) related to roller
 
 ## Books
 - [Basics of Roller Derby PDF](https://ko-fi.com/s/7b777be0f8) - Basics of roller derby illustrated with animals! Superb for beginners.
-- [The roller derby blueprint](https://www.facebook.com/TheRollerDerbyBlueprint) - The Roller Derby Blueprint is a strategy guide for players, captains, coaches and team leaders - [Barnes & Noble](https://www.barnesandnoble.com/w/the-roller-derby-blueprint-scott-meyer/1141910075) | [Amazon](https://www.amazon.com/Roller-Derby-Blueprint-Scott-Meyer/dp/B0B4HJSM1Y)
+- [The roller derby blueprint](https://www.facebook.com/TheRollerDerbyBlueprint) - Strategy guide for players, captains, coaches and team leaders - [Barnes & Noble](https://www.barnesandnoble.com/w/the-roller-derby-blueprint-scott-meyer/1141910075) | [Amazon](https://www.amazon.com/Roller-Derby-Blueprint-Scott-Meyer/dp/B0B4HJSM1Y)
 
 ## League management
-- [Trackkarma](https://www.trackkarma.com/) - Comprehensive management application designed specifically for roller derby leagues - **Advertising-based** / [Paid](https://www.patreon.com/trackkarma)
+- [Trackkarma](https://www.trackkarma.com/) - Comprehensive management application designed for roller derby leagues - **Advertising-based** / [Paid](https://www.patreon.com/trackkarma)
 
 ## Stats
 - [Flat Track Stats](https://flattrackstats.com/) - The most comprehensive database of games played, updated by the community - **Advertising-based**
