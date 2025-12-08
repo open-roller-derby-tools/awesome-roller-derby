@@ -26,4 +26,4 @@ A curated list of a bit less awesome things (not open licence) related to roller
 ## Training
 - [Roller Derby Drills Collection](https://docs.google.com/spreadsheets/d/183eo0M2mM5a3pNqF8fNi-zEd9iMWO8bKCpI3mUQjzX4/edit?gid=0#gid=0) - A collection of roller derby drills in a spreadsheet
 - [LessonStack](https://lessonstack.net/) - Platform to create, share and organize drills and trainings - Free / [Paid](https://lessonstack.net/pricing)
-- [OK Drills!](https://www.okdrills.com/) - Training app that helps you prepare and lead practices, create drills and share them with your league or everyone on the app - Free / [Paid](https://www.okdrills.com/pricing)
+- [OK Drills!](https://www.okdrills.com/) - Prepare and lead practices, create drills and share them with your league or everyone on the app - Free / [Paid](https://www.okdrills.com/pricing)
