@@ -48,6 +48,7 @@ True. It can also be awesome, but less awesome. :)
 ## Officials
 - [Stave](https://github.com/davidmreed/stave) - Platform for roller derby signups and staffing - [Try](https://stave.app/)
 - [The Zen of Reffing Roller Derby](https://github.com/mrogaski/zenref) - Training manual for roller derby referees - [Try](https://zenref.rollerderby.fyi/)
+- [Non-Skating Official Guides](https://nonskating.club/) - Guides covering everything non-skating officials need to know to officiate high level play in a WFTDA, JRDA, or MRDA context.
 - [Pocket Penalty Box Manager](https://github.com/keyobs/pocket-pbt) - Reliable backup for the official penalty box timers - [Try](https://keyobs.github.io/pocket-pbt/)
 
 ## Stats
