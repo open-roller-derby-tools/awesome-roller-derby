@@ -21,6 +21,8 @@ True. It can also be awesome, but less awesome. :)
 - [Officials](#officials)
 - [Stats](#stats)
 - [Wordpress](#wordpress)
+- [Events](#events)
+- [Streaming](#streaming)
 - [Less Awesome Roller Derby](/less-awesome.md)
 
 ## Simulators
@@ -33,6 +35,7 @@ True. It can also be awesome, but less awesome. :)
 - [NSOBridge](https://github.com/someweisguy/NSOBridge) - [WIP] Very early infancy and still has quite a ways to go before it will be ready
 - [ARD Scoreboard](https://github.com/BrewSleeDerby/scoreboard) - [WIP] WFTDA Roller Derby scoreboard app made with Vue 3 in early stage of developement
 - [Jamster](https://github.com/awsxdr/jamster) - [WIP] Scoreboard and live stats system for running games
+- [score5al](https://github.com/LamseyMcBrien/score5al) - Scoreboard application for Sur5al-style roller derby competitions (Not maintained)
 
 ## CRG Tools
 - [CRG Overlays](https://github.com/rcrderby/crg-overlays/tree/main) - Custom overlays for CRG
@@ -47,6 +50,8 @@ True. It can also be awesome, but less awesome. :)
 ## Rules
 - [Calls](http://www.viennarollerderby.org/calls/calls.html) - Random call generator for roller derby - [Source](https://github.com/fa-bien/calls)
 - [Penalty Party](https://penaltyparty.eu/) - Penalty Party helps roller derby leagues to run testing for the WFTDA rules. - [Source](https://github.com/mxsasha/penaltyparty)
+- [derbywhistle](Software for training roller derby official calls using WFTDA penalties) - Web app for training roller derby official calls using WFTDA penalties
+- [MCP Server Roller Derby Rules](https://github.com/Golrigames/RollerDerbyRulesMcp) - MCP (Model Context Protocol) server to access Roller Derby rules extracted from a PDF (French)
 
 ## Officials
 - [Stave](https://stave.app/) - Platform for roller derby signups and staffing - [Source](https://github.com/davidmreed/stave)
@@ -54,6 +59,7 @@ True. It can also be awesome, but less awesome. :)
 - [The Zen of Reffing Roller Derby](https://zenref.rollerderby.fyi/) - Training manual for roller derby referees - [Source](https://github.com/mrogaski/zenref)
 - [Non-Skating Official Guides](https://nonskating.club/) - Guides covering everything non-skating officials need to know to officiate high level play in a WFTDA, JRDA, or MRDA context. - [Source](https://github.com/davidmreed/nonskating.club)
 - [Pocket Penalty Box Manager](https://keyobs.github.io/pocket-pbt/) - Reliable backup for the official penalty box timers - [Source](https://github.com/keyobs/pocket-pbt)
+- [Breadpool's Head Referee Notes](https://github.com/timothyhull/breadpool-hr-notes/releases) - Printable, foldable notes in PDF, PowerPoint, and Keynote formats to review with a referee crew and competing teams. -  [Source](https://github.com/timothyhull/breadpool-hr-notes)
 
 ## Stats
 - [derby](https://github.com/biplabendu/derby) - Statistics for roller derby obtained from the WFTDA Statsbook.
@@ -64,3 +70,9 @@ True. It can also be awesome, but less awesome. :)
 - [TM Derby Team](https://github.com/heliogoodbye/TM-Derby-Team/releases) - Plugin to facilitate the management and display team members - [Source](https://github.com/heliogoodbye/TM-Derby-Team)
 - [TM Derby Schedule](https://github.com/heliogoodbye/TM-Derby-Schedule/releases) - Plugin to manage and showcase game schedules - [Source](https://github.com/heliogoodbye/TM-Derby-Schedule)
 - [https://github.com/heliogoodbye/TM-Derby-Schedule/releases](https://github.com/heliogoodbye/TM-Derby-Scoreboard/releases) - Plugin to manage and display game scores - [Source](https://github.com/heliogoodbye/TM-Derby-Scoreboard)
+
+## Events
+- [rollcal](https://www.roll-cal.com/) _[Dormant]_ - Searchable calendar for roller derby events - [Source](https://github.com/kj-joseph/rollcal)
+
+## Streaming
+- [OBS-Keyb4Derby](https://github.com/Stephane-Peel/OBS-Keyb4Derby) - OBS keyboard for Roller Derby Stream, with leds indications for Rec, Stream and Tally for the Speakers 
