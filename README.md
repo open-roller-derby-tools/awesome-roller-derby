@@ -20,6 +20,7 @@ True. It can also be awesome, but less awesome. :)
 - [Rules](#rules)
 - [Officials](#officials)
 - [Stats](#stats)
+- [Wordpress](#wordpress)
 - [Less Awesome Roller Derby](/less-awesome.md)
 
 ## Simulators
@@ -40,6 +41,8 @@ True. It can also be awesome, but less awesome. :)
 - [Jam Stats](https://jamstats.net/) - Make plots on roller derby scoreboard data and following live game data - [Source](https://github.com/dhmay/jamstats)
 - [Wsproxy](https://github.com/DerbyStats/wsproxy) - Live broadcast a CRG Roller Derby Scoreboard to the internet
 - [Roller Derby Scoreboard Containerized](https://github.com/nashvillerollerderby/roller-derby-scoreboard-containerized) - Tools to build and run CRG
+- [project_sbo](https://github.com/kel-to-pay/project_sbo) - Ergogen generated custom mechanical keyboard for controlling the CRG roller derby scoreboard and games-data package
+- [Roller Derby Manager](https://github.com/cjr3/rdmgr) - A/V production application for Windows, built on Electron, React, and TypeScript.
 
 ## Rules
 - [Calls](http://www.viennarollerderby.org/calls/calls.html) - Random call generator for roller derby - [Source](https://github.com/fa-bien/calls)
@@ -55,4 +58,9 @@ True. It can also be awesome, but less awesome. :)
 ## Stats
 - [derby](https://github.com/biplabendu/derby) - Statistics for roller derby obtained from the WFTDA Statsbook.
 - [MRDA Games API](https://api.mrda.org/v1-public/sanctioning/scores?limit=1000) - API with list of MRDA sanctioned games from 2024 -> now
-- [Statsbook Tool](https://github.com/AdamSmasherDerby/Statsbook-Tool/releases) - A tool for error-checking WFTDA Statsbooks - [Source](https://github.com/AdamSmasherDerby/Statsbook-Tool) | [Donate](https://ko-fi.com/J3J11GKIZ) 
+- [Statsbook Tool](https://github.com/AdamSmasherDerby/Statsbook-Tool/releases) - A tool for error-checking WFTDA Statsbooks - [Source](https://github.com/AdamSmasherDerby/Statsbook-Tool) | [Donate](https://ko-fi.com/J3J11GKIZ)
+
+## Wordpress
+- [TM Derby Team](https://github.com/heliogoodbye/TM-Derby-Team/releases) - Plugin to facilitate the management and display team members - [Source](https://github.com/heliogoodbye/TM-Derby-Team)
+- [TM Derby Schedule](https://github.com/heliogoodbye/TM-Derby-Schedule/releases) - Plugin to manage and showcase game schedules - [Source](https://github.com/heliogoodbye/TM-Derby-Schedule)
+- [https://github.com/heliogoodbye/TM-Derby-Schedule/releases](https://github.com/heliogoodbye/TM-Derby-Scoreboard/releases) - Plugin to manage and display game scores - [Source](https://github.com/heliogoodbye/TM-Derby-Scoreboard)
