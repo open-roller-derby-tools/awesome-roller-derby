@@ -58,6 +58,7 @@ True. It can also be awesome, but less awesome. :)
 - [TOAST](https://rollerderby.directory/) - The Roller Derby Tournament Officials Season Tracker Web application! - [Source](https://gitlab.com/leegent/toast-api)
 - [The Zen of Reffing Roller Derby](https://zenref.rollerderby.fyi/) - Training manual for roller derby referees - [Source](https://github.com/mrogaski/zenref)
 - [Non-Skating Official Guides](https://nonskating.club/) - Guides covering everything non-skating officials need to know to officiate high level play in a WFTDA, JRDA, or MRDA context. - [Source](https://github.com/davidmreed/nonskating.club)
+- [Derby Game Simulator](https://gitlab.com/roller-derby/derby-game-simulator) - A roller derby game simulator to practice NSO skills (SK, PBT, LT)
 - [Pocket Penalty Box Manager](https://keyobs.github.io/pocket-pbt/) - Reliable backup for the official penalty box timers - [Source](https://github.com/keyobs/pocket-pbt)
 - [Breadpool's Head Referee Notes](https://github.com/timothyhull/breadpool-hr-notes/releases) - Printable, foldable notes in PDF, PowerPoint, and Keynote formats to review with a referee crew and competing teams. -  [Source](https://github.com/timothyhull/breadpool-hr-notes)
 
