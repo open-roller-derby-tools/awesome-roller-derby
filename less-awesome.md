@@ -2,12 +2,12 @@
 A curated list of a bit less awesome things (not open licence) related to roller derby.
 
 # Contents
-- [Awesome Roller Derby](/)
 - [Books](#books)
 - [League management](#league-management)
 - [Stats](#stats)
 - [Streaming](#streaming)
 - [Training](#training)
+- [Awesome Roller Derby](/)
 
 ## Books
 - [Basics of Roller Derby PDF](https://ko-fi.com/s/7b777be0f8) - Basics of roller derby illustrated with animals! Superb for beginners.
@@ -18,6 +18,7 @@ A curated list of a bit less awesome things (not open licence) related to roller
 
 ## Stats
 - [Flat Track Stats](https://flattrackstats.com/) - The most comprehensive database of games played, updated by the community - **Advertising-based**
+- [WFTDA Roller Derby StatBook Data Mangler](https://github.com/jlaitio/wftda-roller-derby-statbook-mangler) - A simple script to parse multiple WFTDA StatBook Excel files and aggregate the data to a single JSON file
 
 ## Streaming
 - [RollerDerby TV](rollerderbytv.net) - Provides high-quality filming and live streaming services for Roller Derby events.
